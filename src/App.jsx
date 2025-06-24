@@ -20,7 +20,7 @@ function App() {
         <div className="bg-red-500 w-full"> 
           <h1>Itens da Lista</h1>
 
-          <ul className="flex flex-col gap-2 bg-amber-800">
+          <ul className="flex flex-col gap-2 bg-amber-800 p-2">
               <li className=" bg-amber-300">Primeiro item</li>
               <li className="bg-blue-500">Primeiro item</li>
               <li>Primeiro item</li>
